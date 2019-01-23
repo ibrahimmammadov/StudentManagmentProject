@@ -6,6 +6,9 @@
 - Teachers can form an estimate students and add exam questions.
 - Students can check their semester scores attend in exams and learn final score without any delay.
 
+
+
+
 #### For the sample:
 ```
 admin
@@ -14,12 +17,12 @@ Password - 123
 ```
 
 
+
 Using
-* [Visual Studio](https://visualstudio.microsoft.com) - HTML enhanced for web apps!
-Visual Studio 2017
-C# (Windows Form)
-Sql
-* [AngularJS] - HTML enhanced for web apps!
+* [Visual Studio](https://visualstudio.microsoft.com) - C# (Windows Form)
+* [Sql](https://www.microsoft.com/en-cy/sql-server/sql-server-downloads) - Microsoft Sql Server
+
+
 
 
 License

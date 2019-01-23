@@ -11,9 +11,11 @@ admin
 Id - prefazeee 
 Password - 123
 
-
+* [AngularJS] - HTML enhanced for web apps!
 Using
 ```
+* [AngularJS] - HTML enhanced for web apps!
 Visual Studio 2017
 C# (Windows Form)
 Sql
+* [AngularJS] - HTML enhanced for web apps!
